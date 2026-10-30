@@ -1,0 +1,20 @@
+# 忽略构建目录
+build/
+cmake-build-*/
+
+# 忽略可执行文件
+*.exe
+*.out
+DualChannelMonitor
+
+# 忽略 IDE 配置
+.vscode/
+.idea/
+*.user
+*.autosave
+
+# 忽略 CMake 临时文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile

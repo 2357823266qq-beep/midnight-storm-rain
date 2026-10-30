@@ -1,4 +1,0 @@
-/home/rain/Working/build/CMakeFiles/DualChannelMonitor.dir
-/home/rain/Working/build/CMakeFiles/edit_cache.dir
-/home/rain/Working/build/CMakeFiles/rebuild_cache.dir
-/home/rain/Working/build/CMakeFiles/DualChannelMonitor_autogen.dir
