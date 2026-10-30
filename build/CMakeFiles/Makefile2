@@ -82,12 +82,12 @@ clean: CMakeFiles/DualChannelMonitor_autogen.dir/clean
 CMakeFiles/DualChannelMonitor.dir/all: CMakeFiles/DualChannelMonitor_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor.dir/build.make CMakeFiles/DualChannelMonitor.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor.dir/build.make CMakeFiles/DualChannelMonitor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/rain/Working/build/CMakeFiles --progress-num=1,2,3,4 "Built target DualChannelMonitor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/rain/Working/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target DualChannelMonitor"
 .PHONY : CMakeFiles/DualChannelMonitor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/DualChannelMonitor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/rain/Working/build/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/rain/Working/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/DualChannelMonitor.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/rain/Working/build/CMakeFiles 0
 .PHONY : CMakeFiles/DualChannelMonitor.dir/rule
@@ -108,7 +108,7 @@ CMakeFiles/DualChannelMonitor.dir/clean:
 CMakeFiles/DualChannelMonitor_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor_autogen.dir/build.make CMakeFiles/DualChannelMonitor_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor_autogen.dir/build.make CMakeFiles/DualChannelMonitor_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/rain/Working/build/CMakeFiles --progress-num=5 "Built target DualChannelMonitor_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/rain/Working/build/CMakeFiles --progress-num=6 "Built target DualChannelMonitor_autogen"
 .PHONY : CMakeFiles/DualChannelMonitor_autogen.dir/all
 
 # Build rule for subdir invocation for target.

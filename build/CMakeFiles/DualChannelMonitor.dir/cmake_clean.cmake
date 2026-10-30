@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/DualChannelMonitor.dir/DualChannelMonitor_autogen/mocs_compilation.cpp.o.d"
   "CMakeFiles/DualChannelMonitor.dir/src/MainWindow.cpp.o"
   "CMakeFiles/DualChannelMonitor.dir/src/MainWindow.cpp.o.d"
+  "CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.o"
+  "CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.o.d"
   "CMakeFiles/DualChannelMonitor.dir/src/main.cpp.o"
   "CMakeFiles/DualChannelMonitor.dir/src/main.cpp.o.d"
   "DualChannelMonitor"

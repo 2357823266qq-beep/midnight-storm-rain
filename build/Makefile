@@ -190,6 +190,30 @@ src/MainWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor.dir/build.make CMakeFiles/DualChannelMonitor.dir/src/MainWindow.cpp.s
 .PHONY : src/MainWindow.cpp.s
 
+src/communication/SerialWorker.o: src/communication/SerialWorker.cpp.o
+.PHONY : src/communication/SerialWorker.o
+
+# target to build an object file
+src/communication/SerialWorker.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor.dir/build.make CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.o
+.PHONY : src/communication/SerialWorker.cpp.o
+
+src/communication/SerialWorker.i: src/communication/SerialWorker.cpp.i
+.PHONY : src/communication/SerialWorker.i
+
+# target to preprocess a source file
+src/communication/SerialWorker.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor.dir/build.make CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.i
+.PHONY : src/communication/SerialWorker.cpp.i
+
+src/communication/SerialWorker.s: src/communication/SerialWorker.cpp.s
+.PHONY : src/communication/SerialWorker.s
+
+# target to generate assembly for a file
+src/communication/SerialWorker.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DualChannelMonitor.dir/build.make CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.s
+.PHONY : src/communication/SerialWorker.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -230,6 +254,9 @@ help:
 	@echo "... src/MainWindow.o"
 	@echo "... src/MainWindow.i"
 	@echo "... src/MainWindow.s"
+	@echo "... src/communication/SerialWorker.o"
+	@echo "... src/communication/SerialWorker.i"
+	@echo "... src/communication/SerialWorker.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

@@ -13,5 +13,10 @@
   "directory": "/home/rain/Working/build",
   "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SERIALPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/rain/Working/build/DualChannelMonitor_autogen/include -I/home/rain/Working -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtSerialPort -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/DualChannelMonitor.dir/src/MainWindow.cpp.o -c /home/rain/Working/src/MainWindow.cpp",
   "file": "/home/rain/Working/src/MainWindow.cpp"
+},
+{
+  "directory": "/home/rain/Working/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SERIALPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/rain/Working/build/DualChannelMonitor_autogen/include -I/home/rain/Working -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtSerialPort -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.o -c /home/rain/Working/src/communication/SerialWorker.cpp",
+  "file": "/home/rain/Working/src/communication/SerialWorker.cpp"
 }
 ]

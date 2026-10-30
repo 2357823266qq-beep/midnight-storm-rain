@@ -90,6 +90,12 @@
 			"MU",
 			"UVLADIE3JM/moc_MainWindow.cpp",
 			null
+		],
+		[
+			"/home/rain/Working/src/communication/SerialWorker.h",
+			"MU",
+			"D6P2OG4ME3/moc_SerialWorker.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -155,6 +161,7 @@
 	"SOURCES" : 
 	[
 		[ "/home/rain/Working/src/MainWindow.cpp", "MU", null ],
+		[ "/home/rain/Working/src/communication/SerialWorker.cpp", "MU", null ],
 		[ "/home/rain/Working/src/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],

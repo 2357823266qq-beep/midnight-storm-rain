@@ -280,4 +280,26 @@ CMakeFiles/DualChannelMonitor.dir/DualChannelMonitor_autogen/mocs_compilation.cp
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
- /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QThread \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qthread.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qdeadlinetimer.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qelapsedtimer.h \
+ /usr/include/c++/11/future /usr/include/c++/11/mutex \
+ /usr/include/c++/11/bits/std_mutex.h \
+ /usr/include/c++/11/bits/unique_lock.h \
+ /usr/include/c++/11/condition_variable \
+ /usr/include/c++/11/bits/atomic_futex.h \
+ /usr/include/c++/11/bits/std_thread.h \
+ /home/rain/Working/build/DualChannelMonitor_autogen/UVLADIE3JM/../../../src/communication/SerialWorker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QObject \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qobject.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtSerialPort/QSerialPort \
+ /usr/include/x86_64-linux-gnu/qt5/QtSerialPort/qserialport.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtSerialPort/qserialportglobal.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtSerialPort/QSerialPortInfo \
+ /usr/include/x86_64-linux-gnu/qt5/QtSerialPort/qserialportinfo.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QByteArray \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qbytearray.h \
+ /home/rain/Working/build/DualChannelMonitor_autogen/D6P2OG4ME3/moc_SerialWorker.cpp \
+ /home/rain/Working/build/DualChannelMonitor_autogen/D6P2OG4ME3/../../../src/communication/SerialWorker.h

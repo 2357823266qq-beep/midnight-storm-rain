@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/rain/Working/build/DualChannelMonitor_autogen/mocs_compilation.cpp" "CMakeFiles/DualChannelMonitor.dir/DualChannelMonitor_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/DualChannelMonitor.dir/DualChannelMonitor_autogen/mocs_compilation.cpp.o.d"
   "/home/rain/Working/src/MainWindow.cpp" "CMakeFiles/DualChannelMonitor.dir/src/MainWindow.cpp.o" "gcc" "CMakeFiles/DualChannelMonitor.dir/src/MainWindow.cpp.o.d"
+  "/home/rain/Working/src/communication/SerialWorker.cpp" "CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.o" "gcc" "CMakeFiles/DualChannelMonitor.dir/src/communication/SerialWorker.cpp.o.d"
   "/home/rain/Working/src/main.cpp" "CMakeFiles/DualChannelMonitor.dir/src/main.cpp.o" "gcc" "CMakeFiles/DualChannelMonitor.dir/src/main.cpp.o.d"
   )
 

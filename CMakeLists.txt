@@ -19,6 +19,8 @@ add_executable(${PROJECT_NAME}
     src/MainWindow.cpp
     src/MainWindow.h
     core/DataType.h
+    src/communication/SerialWorker.cpp
+    src/communication/SerialWorker.h
 )
 
 # 2. 设置目标属性
